@@ -1,4 +1,4 @@
-![GUI](https://raw.githubusercontent.com/laurentbbb/PENPLOTTER-PAINT-SPLITTER/main/GUI.png)
+![GUI](https://raw.githubusercontent.com/laurentbbb/PENPLOTTER-PAINT-SPLITTER/main/GUI2.jpg)
 
 # PENPLOTTER PAINT SPLITTER
 
