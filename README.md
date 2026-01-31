@@ -1,3 +1,5 @@
+![GUI](https://raw.githubusercontent.com/laurentbbb/PENPLOTTER-PAINT-SPLITTER/main/GUI.png)
+
 # PENPLOTTER PAINT SPLITTER
 
 A Python GUI tool to split multi-color pen plotter drawings into segments with automatic paint reload paths. Perfect for creating paintings with pen plotters.
