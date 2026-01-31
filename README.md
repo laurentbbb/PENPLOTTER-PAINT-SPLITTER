@@ -1,4 +1,4 @@
-![Alt text](laurentbbb/PENPLOTTER-PAINT-SPLITTER/blob/main/GUI.png)
+![Alt text](main/GUI.png)
 
 # PENPLOTTER PAINT SPLITTER
 
