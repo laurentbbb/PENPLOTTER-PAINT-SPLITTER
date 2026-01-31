@@ -145,6 +145,13 @@ You need two SVG files:
    - Move layer 4 bucket paths to paint position 4 (e.g., 150mm below)
 6. Plot!
 
+### Plot direction
+
+Make sure the penplotter draws by order of the paths and no optimization for speed. 
+
+## BONUS
+A complete example is provided to understand the structure with "4 COLORS EXAMPLE.svg"
+
 ## Troubleshooting
 
 ### "vpype command failed" error
