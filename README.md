@@ -8,6 +8,10 @@ A Python GUI tool to split multi-color pen plotter drawings into segments with a
 
 This tool takes a multi-color SVG drawing and automatically inserts "bucket paths" (paint reload points) at regular intervals. Each color layer gets its own reload path, making it easy to create pen plotter paintings with real paint.
 
+It's always better in video:
+https://www.youtube.com/watch?v=YmFfXjoWfhE
+https://www.instagram.com/p/DUuxDv_jFgC/
+
 ## Features
 
 - ✅ Simple step-by-step interface
@@ -227,6 +231,9 @@ If you have questions or issues:
 2. Open an issue on GitHub
 3. Include your vpype version: `vpype --version`
 4. Include your Python version: `python --version`
+
+15% off all orders placed on Uunatek.com with the code LBALLIXVIP
+It gives extra 15% off for all orders on Uunatek.com
 
 ---
 
