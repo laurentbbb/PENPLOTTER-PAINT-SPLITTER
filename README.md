@@ -83,7 +83,7 @@ Before running the tool, you need to configure the path to your vpype installati
 
 ### Editing the configuration
 
-1. Open `PENPLOTTER_PAINT_SPLITTER.py` in any text editor (Notepad, VS Code, etc.)
+1. Open `PAINT_GUI.py` in any text editor (Notepad, VS Code, etc.)
 2. Find this line near the top:
    ```python
    VPYPE_CMD = r"C:\Users\PC\AppData\...\vpype.exe"
