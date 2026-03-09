@@ -105,11 +105,11 @@ Before running the tool, you need to configure the path to your vpype installati
 ### 1. Launch the program
 
 **Windows:**
-- Double-click `PENPLOTTER_PAINT_SPLITTER.py`
+- Double-click `PAINT_GUI.py`
 
 **Mac/Linux:**
 ```bash
-python3 PENPLOTTER_PAINT_SPLITTER.py
+python3 PAINT_GUI.py
 ```
 
 ### 2. Prepare your files
